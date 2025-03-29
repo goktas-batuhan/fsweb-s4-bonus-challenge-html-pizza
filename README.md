@@ -57,9 +57,10 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 
 #### Tasarımda Kullanılan Fontlar
 
-Logo proje klasöründe SVG olarak yüklü
+Logo proje klasöründe SVG olarak yüklü (eklendi)
 
-- [Roboto Condensed](https://fonts.google.com/specimen/Roboto+Condensed)
+
+- [Roboto Condensed](https://fonts.google.com/specimen/Roboto+Condensed) 
 - [Barlow](https://fonts.google.com/specimen/Barlow)
 - [Quattrocento](https://fonts.google.com/specimen/Quattrocento)
 - [Satisfy](https://fonts.google.com/specimen/Satisfy)
