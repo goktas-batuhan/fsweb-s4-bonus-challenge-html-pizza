@@ -414,15 +414,20 @@ footer{
 .main-icons{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex;
     
 }
+
 .main-cards{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 1rem;
+}
+.icons-cards{
+    width: 130px;
+    justify-content: flex-start;
 }
 .big-card{
     max-width: 20rem;
@@ -493,6 +498,10 @@ footer{
     flex-wrap: wrap;
     gap:1rem;
     margin-top: 2rem;
+}
+.popular-icons-cards{
+    width: 130px;
+    justify-content: flex-start;
 }
 .food-cards{
     display: flex;
